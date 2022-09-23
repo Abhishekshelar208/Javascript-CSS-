@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>
+            Write a program to print Addition of two number(css)
+        </title>
+    </head>
+    <body>
+        <script>
+            var a=10,b=20;
+            document.write("Addition is : "+(a+b));
+        </script>
+    </body>
+</html>
