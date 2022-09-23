@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>
+            Write a program to print Hello world second way(css)
+        </title>
+    </head>
+    <body>
+        <script>
+            alert("Hello world");
+        </script>
+    </body>
+</html>
