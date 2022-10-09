@@ -1,0 +1,26 @@
+<html>
+
+    <head>
+        <title>
+            Write a program to demonstrate the creation of array in css.
+        </title>
+    </head>
+    <body>
+        <script>
+            // In javascript there are three ways to creating an Array.
+            //1st : 
+            var arr=new Array();//creates an empty array.
+
+            //2nd : 
+            var arr=new Array();
+            arr[0]=1;
+            arr[1]=2;
+            arr[2]=3;
+
+            //3rd : 
+            var arr=new Array(1,2,3);
+            
+            
+        </script>
+    </body>
+</html>
