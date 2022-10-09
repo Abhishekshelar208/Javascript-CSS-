@@ -1,0 +1,26 @@
+<html>
+
+    <head>
+        <title>
+            Write a program to find greater number between three number(css).
+        </title>
+    </head>
+    <body>
+        <script>
+            var a = prompt("Enter The first number : ");
+            a = parseInt(a);
+            var b = prompt("Enter the second number : ");
+            b = parseInt(b);
+            var c = prompt("Enter the third number : ");
+            c = parseInt(c);
+            if(a>b && a>c){
+                document.write("Greater number is : "+a);
+            }else if(b>a && b>c){
+                document.write("Greater number is : "+b);
+            }else{
+                document.write("Greater number is : "+c);
+            }
+            
+        </script>
+    </body>
+</html>
