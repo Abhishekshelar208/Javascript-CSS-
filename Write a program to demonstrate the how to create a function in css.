@@ -1,0 +1,22 @@
+<html>
+
+    <head>
+        <title>
+            Write a program to demonstrate the how to create a function in css.
+        </title>
+    </head>
+    <body>
+        <script>
+            
+            function add(){
+                var a=prompt("Enter the value of x : ");
+                a = parseInt(a);
+                var b = prompt("Enter the value of y : ");
+                b = parseInt(b);
+                var c = a+b;
+                document.write("Addition is : "+c);
+            }
+            add();
+        </script>
+    </body>
+</html>
