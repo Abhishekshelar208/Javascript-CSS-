@@ -1,0 +1,20 @@
+<html>
+
+    <head>
+        <title>
+            Write a program to demonstrate the how to create a function with argruments in css.
+        </title>
+    </head>
+    <body>
+        <script>
+            
+            function add(a,b){
+                var num1 = a;
+                var num2 = b;
+                var sum = num1+num2;
+                document.write("Addition is : "+sum);
+            }
+            add(12,4);
+        </script>
+    </body>
+</html>
