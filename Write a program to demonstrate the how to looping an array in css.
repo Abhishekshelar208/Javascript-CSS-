@@ -1,0 +1,24 @@
+<html>
+
+    <head>
+        <title>
+            Write a program to demonstrate the how to looping an array in css.
+        </title>
+    </head>
+    <body>
+        <script>
+            
+            var arr=new Array();
+            arr[0]=1;
+            arr[1]=2;
+            arr[2]=3;
+            for (var i=0; i<arr.length; i++){
+                document.write(arr[i]+"<br>");
+            }
+
+            
+
+            
+        </script>
+    </body>
+</html>
