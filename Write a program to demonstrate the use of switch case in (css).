@@ -1,0 +1,32 @@
+<html>
+
+    <head>
+        <title>
+            Write a program to demonstrate the use of switch case in (css).
+        </title>
+    </head>
+    <body>
+        <script>
+            var day = "Tuesday";
+            switch(day){
+                case "Monday": document.write("Today is Monday");
+                break;
+                case "Tuesday": document.write("Today is Tuesday");
+                break;
+                case "Wednesday": document.write("Today is Wednesday");
+                break;
+                case "Thursday": document.write("Today is Thursday");
+                break;
+                case "Friday": document.write("Today is Friday");
+                break;
+                case "Saturday": document.write("Today is Saturday");
+                break;
+                case "Sunday": document.write("Today is Sunday");
+                break;
+                default: document.write("Invalid");
+
+            }
+            
+        </script>
+    </body>
+</html>
