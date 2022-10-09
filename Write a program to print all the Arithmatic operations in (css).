@@ -1,0 +1,18 @@
+<html>
+
+    <head>
+        <title>
+            Write a program to print all the Arithmatic operations in (css).
+        </title>
+    </head>
+    <body>
+        <script>
+            var a=10,b=20;
+            document.write("Addition is : "+(a+b)+"<br>");
+            document.write("Subtraction is : "+(a-b)+"<br>");
+            document.write("Multiplication is : "+(a*b)+"<br>");
+            document.write("Division is : "+(a/b)+"<br>");
+            document.write("Modulo is : "+(a%b)+"<br>");
+        </script>
+    </body>
+</html>
