@@ -1,0 +1,22 @@
+<html>
+
+    <head>
+        <title>
+            Write a program to find greater number between two number(css).
+        </title>
+    </head>
+    <body>
+        <script>
+            var a = prompt("Enter The first number : ");
+            a = parseInt(a);
+            var b = prompt("Enter the second number : ");
+            b = parseInt(b);
+            if(a>b){
+                document.write("Greater number is : "+a);
+            }else{
+                document.write("Greater number is : "+b);
+            }
+            
+        </script>
+    </body>
+</html>
