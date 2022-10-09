@@ -1,0 +1,14 @@
+<html>
+
+    <head>
+        <title>
+            Write a program to print Subtration of two number(css)
+        </title>
+    </head>
+    <body>
+        <script>
+            var a=10,b=20;
+            document.write("Subtraction is : "+(a-b));
+        </script>
+    </body>
+</html>
